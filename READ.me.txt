@@ -1,0 +1,5 @@
+Cotizaciones de seguros TK-U
+
+La finalidad del programa es calcular el precio total de una o varias cotizaciones tomando en cuenta la edad del asegurado, si el asegurado tiene conyuge y la edad de este, si el asegurado tiene hijos, los ingresos del asegurado y la cantidad de propiedades a su nombre.
+
+Una pequeña manera de mejorar el programa seria añadir un mensaje de bienvenida y de agradecimiento al final por cotizar con la compañia, sirve como un paso extra que influye de una manera positiva a la experiencia del individuo.

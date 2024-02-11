@@ -1,0 +1,38 @@
+Cotizaciones de seguros TK-U
+
+Problema:
+Se le pide al programa crear una cotización de un seguro teniendo en cuenta la edad del asegurado, si el asegurado está casado y si tiene hijos para agilizar el proceso de cotizaciones de la empresa y hacerlo un poco más automatizado.
+
+Algoritmo de cotización de seguros TK-U:
+El precio base del seguro es de Q3,000*
+
+1. Determinar la información del asegurado
+
+- Su nombre
+- Su edad
+- Su estado civil
+- Edad del conyugue
+- Cantidad de hijos
+
+2. El asegurado tiene que ser mayor de edad (> 18)
+- De lo contrario, no se puede continuar con la cotización
+
+3. Determinar los recargos adicionales basados en la edad del asegurado y sumarlos al precio base
+
+- Si tiene > 18 años y < 25, el recargo es del 10%
+- Si tiene > 25 años y < 50, el recargo es del 20%"
+- Si tiene > 50 años, el recargo es del 30%
+
+4. Calcular los recargos basados en si tiene cónyuge y la edad de este siguiendo los mismos reglamentos del punto anterior
+
+- Si tiene > 18 años y < 25, el recargo es del 10%
+- Si tiene > 25 años y < 50, el recargo es del 20%
+- Si tiene > 50 años, el recargo es del 30%
+
+5. Calcular los recargos dependiendo si el asegurado tiene hijos
+
+- Cada hijo tiene un recargo del 20%
+
+6. Sumar todos los recargos adicionales al precio base para obtener el precio final de la cotización
+
+7. Mostrar el precio totaL
